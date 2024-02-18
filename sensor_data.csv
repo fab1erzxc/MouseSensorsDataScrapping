@@ -1,0 +1,41 @@
+Sensor Model,Manufacturer,Sensor,Flawless,DPI,Tracking Speed,Acceleration
+PAW 3950,PixArt,Optical,Yes,"30,000",750 IPS,70g
+PAW 3399,PixArt,Optical,Yes,"20,000",650 IPS,50g
+PAW 3370,PixArt,Optical,Yes,"19,000",400 IPS,50g
+PAW 3369,PixArt,Optical,Yes,"18,000",400 IPS,50g
+PMW 3391,PixArt,Optical,Yes,"18,000",400 IPS,50g
+PMW 3392,PixArt,Optical,Yes,"18,000",450 IPS,50g
+PAW 3335,PixArt,Optical,Yes,"16,000",400 IPS,40g
+PMW 3389,PixArt,Optical,Yes,"16,000",450 IPS,50g
+PMW 3390,PixArt,Optical,Yes,"16,000",450 IPS,40g
+PMW 3327,PixArt,Optical,Yes,"12,400",220 IPS,50g
+PAW 3311,PixArt,Optical,Yes,"12,000",300 IPS,35g
+PMW 3360,PixArt,Optical,Yes,"12,000",250 IPS,50g
+PMW 3336,PixArt,Optical,Yes,"10,800",150 IPS,30g
+PMW 3331,PixArt,Optical,Yes,"8,500",300 IPS,35g
+PMW 3359,PixArt,Optical,Yes,"8,500",300 IPS,40g
+PAW 3333,PixArt,Optical,Yes,"8,000",300 IPS,35g
+PMW 3330,PixArt,Optical,Yes,"7,200",150 IPS,30g
+PAW 3309,PixArt,Optical,Yes,"6,400",150 IPS,30g
+PAW 3328,PixArt,Optical,Yes,"6,400",220 IPS,30g
+PMW 3310,PixArt,Optical,Yes,"5,000",130 IPS,30g
+PMW 3325,PixArt,Optical,Yes,"5,000",100 IPS,20g
+PAW 3519,PixArt,Optical,No,"4,200",48 IPS,10g
+PAW 3104,PixArt,Optical,Yes,"4,000",45 IPS,15g
+PAW 3222,PixArt,Optical,Yes,"4,000",30 IPS,10g
+PMW 3320,PixArt,Optical,Yes,"3,500",80 IPS,20g
+PAW 3805,PixArt,Optical,No,"3,000",10 IPS,40g
+PAW 3212,PixArt,Optical,Yes,"2,400",30 IPS,10g
+PAW 3220,PixArt,Optical,Yes,"1,800",30 IPS,10g
+HERO 25K,Logitech,Optical,Yes,"25,600",400 IPS,40g
+HERO 16K,Logitech,Optical,Yes,"16,000",400 IPS,40g
+HERO,Logitech,Optical,Yes,"12,000",400 IPS,40g
+HERO 12K,Logitech,Optical,Yes,"12,000",400 IPS,40g
+Mercury,Logitech,Optical,Yes,"8,000",200 IPS,25g
+ADNS 9800,Avago,Laser,No,"8,200",150 IPS,30g
+ADNS 3988,Avago,Optical,Yes,"6,400",200 IPS,50g
+ADNS 9500,Avago,Laser,No,"5,700",150 IPS,30g
+AM010,Avago,Optical,Yes,"4,000",500 IPS,16g
+ADNS A3055,Avago,Optical,Yes,"2,500",60 IPS,20g
+ADNS 3050,Avago,Optical,Yes,"2,000",60 IPS,20g
+ROG AimPoint,Asus,Optical,Yes,"36,000",650 IPS,50g
